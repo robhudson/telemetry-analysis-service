@@ -139,6 +139,7 @@ class Core(Constance, CSP, AWS, Configuration):
         'atmo.clusters',
         'atmo.apps.HealthApp',
         'atmo.jobs',
+        'atmo.public_keys',
         'atmo.users',
 
         # Third party apps
